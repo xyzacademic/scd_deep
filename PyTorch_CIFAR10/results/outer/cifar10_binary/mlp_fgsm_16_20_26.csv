@@ -1,0 +1,5 @@
+model,mlpbcebp,mlpbceban,mlp01scd,mlpbcescd
+mlpbcebp,0.0035,0.0025,0.4830,0.0065
+mlpbceban,0.0055,0.0025,0.4670,0.0095
+mlp01scd,0.7330,0.6975,0.3545,0.6230
+mlpbcescd,0.1015,0.0775,0.3920,0.0225
